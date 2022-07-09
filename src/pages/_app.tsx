@@ -7,7 +7,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
   return (
     <>
       <Head>
-        <title>Next Starter</title>
+        <title></title>
       </Head>
       <Component {...pageProps} />
     </>
